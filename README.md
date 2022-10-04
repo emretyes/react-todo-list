@@ -1,4 +1,4 @@
-#React-todo-list-project
+# react-todo-list-project
 
 patika eğitimi react project
 
